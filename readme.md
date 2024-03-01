@@ -56,7 +56,7 @@ npm run dev
 
 ```
 
-## Test App in production
+## Test App in production in only available on http due time delivery.
 
 ### Play with the app with the following [link](http://reactbuckes3.s3-website-us-west-1.amazonaws.com/store) and SignIn with this custom credentials or create your account.
 
