@@ -1,4 +1,8 @@
-# Weather forecast
+# Back Market Place App
+
+## DB DESIGN DIAGRAM
+
+![This is an alt text.](dbDiagram.png "Running Front")
 
 ## Installation
 
@@ -19,7 +23,7 @@ npm i
 
 ### 3-. Configure Server-Side (Backend)
 
-### In the server folder 'weather-forecast-back', create a new file named '.env' and paste the following environment variables to properly run the backend:
+### In the server folder 'market-place-back', create a new file named '.env' and paste the following environment variables to properly run the backend:
 
 ```
 #API Version
