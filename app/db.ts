@@ -5,6 +5,7 @@ const dbConfig: SequelizeOptions = config.db;
 
 const sequelize = new Sequelize({
   ...dbConfig,
+  port: 5432,
   logging: false,
   storage: ":memory:",
   models: [__dirname + "/models"],
